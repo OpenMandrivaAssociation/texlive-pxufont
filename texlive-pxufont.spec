@@ -1,6 +1,6 @@
 Name:		texlive-pxufont
-Version:	64072
-Release:	2
+Version:	67573
+Release:	1
 Summary:	Emulate non-Unicode Japanese fonts using Unicode fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pxufont
